@@ -1,2 +1,2 @@
 # toggle-bulb
-https://github.com/shabeenek/toggle-bulb.git
+https://shabeenek.github.io/toggle-bulb/
